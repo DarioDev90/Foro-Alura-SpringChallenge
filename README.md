@@ -30,7 +30,7 @@ https://github.com/alura-challenges/challenge-one-foro-alura
 ### 🔹Diagrama de base de datos:
 
 Link: https://github.com/DarioDev90/Foro-Alura-SpringChallenge/tree/main/src/main/resources/db/migration
-![diagrama_foro_api](src/imgRepositorio/Diagrama-Entidad-Relacion.png)
+![diagrama_foro_api](src/imgRepository/Diagrama-Entidad-Relacion.png)
 
 ### 🔹Registro de un nuevo tópico
 
@@ -54,7 +54,7 @@ Link: https://github.com/DarioDev90/Foro-Alura-SpringChallenge/tree/main/src/mai
 }
 ```
 
-![](src/imgRepositorio/Registrar-Topico.jpeg)
+![](src/imgRepository/Registrar-Topico.jpeg)
 
 ### 🔹Mostrar todos los tópicos
 
@@ -64,7 +64,7 @@ Link: https://github.com/DarioDev90/Foro-Alura-SpringChallenge/tree/main/src/mai
 [ GET ] http://localhost:8080/topicos?size=10
 ```
 
-![](src/imgRepositorio/Listado-Topicos.jpeg)
+![](src/imgRepository/Listado-Topicos.jpeg)
 
 ### 🔹Detallando un tópico
 
@@ -74,7 +74,7 @@ Link: https://github.com/DarioDev90/Foro-Alura-SpringChallenge/tree/main/src/mai
 [ GET ] http://localhost:8080/topicos/3
 ```
 
-![](src/imgRepositorio/Obtener-Datos-Topico.jpeg)
+![](src/imgRepository/Obtener-Datos-Topico.jpeg)
 
 ### 🔹Actualizar un tópico
 
@@ -92,7 +92,7 @@ Link: https://github.com/DarioDev90/Foro-Alura-SpringChallenge/tree/main/src/mai
 }
 ```
 
-![](src/imgRepositorio/Actualizar-Topico.jpeg)
+![](src/imgRepository/Actualizar-Topico.jpeg)
 
 ### 🔹Eliminar un tópico
 
@@ -102,7 +102,7 @@ Link: https://github.com/DarioDev90/Foro-Alura-SpringChallenge/tree/main/src/mai
 [ DELETE ] http://localhost:8080/topicos/3
 ```
 
-![](src/imgRepositorio/Eliminar-Topico.jpeg)
+![](src/imgRepository/Eliminar-Topico.jpeg)
 
 # 📃 Challenge ONE - API REST - Spring 2
 
@@ -114,7 +114,7 @@ Link: https://github.com/DarioDev90/Foro-Alura-SpringChallenge/tree/main/src/mai
 [ URL ] http://localhost:8080/login](http://localhost:8080/swagger-ui/index.html#/
 ```
 
-![](src/imgRepositorio/SpringDoc-ForoApi.jpeg)
+![](src/imgRepository/SpringDoc-ForoApi.jpeg)
 
 ### 🔹Generar un token usando JWT
 
@@ -131,7 +131,7 @@ Link: https://github.com/DarioDev90/Foro-Alura-SpringChallenge/tree/main/src/mai
 }
 ```
 
-![](src/imgRepositorio/Crear-Token-User.jpeg)
+![](src/imgRepository/Crear-Token-User.jpeg)
 
 ### 🔹Autenticación con JWT
 
@@ -158,7 +158,7 @@ Link: https://github.com/DarioDev90/Foro-Alura-SpringChallenge/tree/main/src/mai
 
 ---
 
-![](src/imgRepositorio/Authentication-User.jpeg)
+![](src/imgRepository/Authentication-User.jpeg)
 
 ## 📚 Tecnologías
 
@@ -177,14 +177,14 @@ Link: https://github.com/DarioDev90/Foro-Alura-SpringChallenge/tree/main/src/mai
 ## 📝 Dependencias utilizadas
 
 Link: https://github.com/DarioDev90/Foro-Alura-SpringChallenge/blob/main/pom.xml
-![](src/imgRepositorio/Dependencias-Proyecto.png)
+![](src/imgRepository/Dependencias-Proyecto.png)
 
 ---
 
 ## 📝 Estructura del proyecto
 
 Link: https://github.com/DarioDev90/Foro-Alura-SpringChallenge/tree/main/src/main/java/org/dariodev/foro/api
-![](src/imgRepositorio/Estructura-Proyecto.png)
+![](src/imgRepository/Estructura-Proyecto.png)
 
 ## 📝 Commits realizados:
 
